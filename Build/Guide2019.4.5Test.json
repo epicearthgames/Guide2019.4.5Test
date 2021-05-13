@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Resize Test 2019.4.5",
+"productVersion": "0.1",
+"dataUrl": "Guide2019.4.5Test.data.unityweb",
+"wasmCodeUrl": "Guide2019.4.5Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "Guide2019.4.5Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
